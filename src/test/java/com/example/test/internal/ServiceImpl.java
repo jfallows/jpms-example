@@ -1,4 +1,4 @@
-package com.example.internal;
+package com.example.test.internal;
 
 import com.example.Service;
 
