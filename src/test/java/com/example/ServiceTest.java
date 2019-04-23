@@ -1,10 +1,8 @@
-package com.example.test;
+package com.example;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 import org.junit.jupiter.api.Test;
-
-import com.example.Service;
 
 public class ServiceTest 
 {
